@@ -16,12 +16,12 @@ Overall, this code combines TensorFlow, OpenCV, a pre-trained model, class label
 
 ## Packages And Libraries Required 
 
--numpy
--os
--imutils
--Cv2
--tensorflow
--keras
+- numpy
+- os
+- imutils
+- Cv2
+- tensorflow
+- keras
 
 ## FPS and Inference Time examined in Efficientdet
 
